@@ -1,0 +1,26 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for February, 2014, generated on 2014/03/04
+
+Number of download events that retrieved data from the resource: 6 (out of 131 download event in this period)
+Total number of records downloaded: 102 (out of 1274846 records downloaded for all resources in this period)
+Total number of unique records downloaded: 98
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Number of times: 3
+	Country: Mexico ; Number of times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-02-21 00:00:00 ; Number of times: 1
+	Date: 2014-02-20 00:00:00 ; Number of times: 1
+	Date: 2014-02-14 00:00:00 ; Number of times: 1
+	Date: 2014-02-13 00:00:00 ; Number of times: 2
+	Date: 2014-02-28 00:00:00 ; Number of times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "reptilia stateprovince:Jalisco country:Mexico" ; Number of times: 1
+	Query: "boulder" ; Number of times: 2
+	Query: "country:Mexico" ; Number of times: 1
+	Query: "passeridae" ; Number of times: 1
+	Query: "Reptilia stateprovince:Colima country:Mexico" ; Number of times: 1
+
+End of report.
