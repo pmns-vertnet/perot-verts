@@ -1,0 +1,53 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 433 download events in this period)
+Total number of records downloaded: 16 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 0
+Total number of records retrieved from searches: 0
+Number of download events that retrieved data from the resource: 32
+Total number of records downloaded: 544
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 0
+Total number of records retrieved from searches: 0
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 16659
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
