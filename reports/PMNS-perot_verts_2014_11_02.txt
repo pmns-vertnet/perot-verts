@@ -1,0 +1,57 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis catenifer sayi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 166 download events in this period)
+Total number of records downloaded: 146 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 86
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 2
+	Date: 2014-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 142
+Number of download events that retrieved data from the resource: 69
+Total number of records downloaded: 5805
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 142
+Number of download events that retrieved data from the resource: 111
+Total number of records downloaded: 21920
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
