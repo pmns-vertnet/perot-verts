@@ -1,0 +1,74 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 20
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 2
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Elaphe bairdi" ; Times: 1
+	Query: "wilson caldwell county" ; Times: 2
+	Query: "rallus elegans stateprovince:"Texas" country:"United States"" ; Times: 1
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "scolopax minor stateprovince:"Texas" country:"United States"" ; Times: 1
+	Query: "Wilson Caldwell County" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 445 download events in this period)
+Total number of records downloaded: 111 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "mammals stateprovince:"chihuahua" country:"mexico"" ; Times: 1
+	Query: "mammals stateprovince:"coahuila" country:"mexico"" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: ""passer domesticus" type:specimen" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 29
+Total number of records retrieved from searches: 777
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 111
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 36
+Total number of records retrieved from searches: 797
+Number of download events that retrieved data from the resource: 133
+Total number of records downloaded: 29061
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
