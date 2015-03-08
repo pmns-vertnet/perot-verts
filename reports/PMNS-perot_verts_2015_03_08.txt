@@ -1,0 +1,88 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 7
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "regina rigida Florida" ; Times: 5
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 1
+	Query: "Thamnophis marcianus AND Hidalgo" ; Times: 1
+	Query: "aratinga auricapillus" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "regina rigida" ; Times: 2
+	Query: "Regina rigida stateprovince:"Florida"" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 326 download events in this period)
+Total number of records downloaded: 375 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 362
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "thamnophis couchi" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 44
+Total number of records retrieved from searches: 803
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 486
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 51
+Total number of records retrieved from searches: 823
+Number of download events that retrieved data from the resource: 142
+Total number of records downloaded: 29436
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
