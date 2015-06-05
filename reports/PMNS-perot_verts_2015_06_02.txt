@@ -1,0 +1,108 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-16 ; Times: 3
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Campephilus principalis" ; Times: 2
+	Query: ""Thamnophis" county:"Gillespie" stateprovince:"Texas"" ; Times: 1
+	Query: "Lampropeltis pyromelana Arizona" ; Times: 1
+	Query: "county:"brewster" stateprovince:"texas" country:"United States" specificepithet:bairdi" ; Times: 1
+	Query: "county:"brewster" stateprovince:"Texas" country:"United States" genus:lampropeltis" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "specificepithet:lippiens genus:Sympholis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 976 download events in this period)
+Total number of records downloaded: 931 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 627
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-21 ; Times: 8
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:reptilia" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 68
+Total number of records retrieved from searches: 867
+Number of download events that retrieved data from the resource: 56
+Total number of records downloaded: 1633
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 75
+Total number of records retrieved from searches: 887
+Number of download events that retrieved data from the resource: 181
+Total number of records downloaded: 30583
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
