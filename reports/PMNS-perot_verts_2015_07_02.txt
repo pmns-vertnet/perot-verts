@@ -1,0 +1,89 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptodeira Guerrero" ; Times: 2
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "specificepithet:deserticola genus:Salvadora" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1524 download events in this period)
+Total number of records downloaded: 216 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 190
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 2
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 72
+Total number of records retrieved from searches: 889
+Number of download events that retrieved data from the resource: 73
+Total number of records downloaded: 1849
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 79
+Total number of records retrieved from searches: 909
+Number of download events that retrieved data from the resource: 198
+Total number of records downloaded: 30799
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
