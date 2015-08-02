@@ -1,0 +1,100 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 294
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-27 ; Times: 3
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "perot" ; Times: 1
+	Query: "186 county:"Cochise" stateprovince:"Arizona" class:Reptilia (186) year <= 2015" ; Times: 1
+	Query: "Thamnophis sirtalis annectens" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdii" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 3
+	Query: "stateprovince:"texas" specificepithet:bairdi" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Coccyzus year >= 1982" ; Times: 1
+	Query: "pmns" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 1
+	Query: "pmns "Falconiformes" (Texas)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1084 download events in this period)
+Total number of records downloaded: 420 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 285
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "pmns "Falconiformes" (Texas)" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 84
+Total number of records retrieved from searches: 1183
+Number of download events that retrieved data from the resource: 94
+Total number of records downloaded: 2269
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 91
+Total number of records retrieved from searches: 1203
+Number of download events that retrieved data from the resource: 219
+Total number of records downloaded: 31219
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
