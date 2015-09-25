@@ -1,0 +1,90 @@
+Report for Institution Code PMNS, Resource BIRDS
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-05 ; Times: 3
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampropeltis pyromelana stateprovince:"Arizona" year >= 1970 year <= 2015" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Farancia abacura stateprovince:"Georgia"" ; Times: 1
+	Query: "Aves Hudspeth" ; Times: 3
+	Query: "Lampropeltis zonata stateprovince:"California"" ; Times: 2
+	Query: "El Paso County Texas Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1138 download events in this period)
+Total number of records downloaded: 317 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 306
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-17 ; Times: 5
+	Date: 2015-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 9
+Total number of records retrieved from searches: 22
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 317
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 9
+Total number of records retrieved from searches: 22
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 317
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
