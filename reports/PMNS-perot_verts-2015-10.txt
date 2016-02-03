@@ -1,0 +1,73 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lodingi" ; Times: 2
+	Query: "specificepithet:griseus genus:limnodromus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sympholis lippiens" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 823 download events in this period)
+Total number of records downloaded: 255
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Black Gap class:Reptilia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+
+
+End of report.
