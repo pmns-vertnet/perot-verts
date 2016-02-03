@@ -1,0 +1,81 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypsiglena Guerrero" ; Times: 4
+	Query: "thamnophis sirtalis pickeringii" ; Times: 2
+	Query: "lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "gyalopion quadrangulare" ; Times: 3
+	Query: "reptilia stateprovince:&#34;texas&#34; (palo duro)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1045 download events in this period)
+Total number of records downloaded: 1251
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 16
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "genus:Spizella" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spizella pallida from the United States" ; Times: 2
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+
+
+End of report.
