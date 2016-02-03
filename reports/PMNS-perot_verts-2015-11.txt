@@ -1,0 +1,73 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 361
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-05 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen order:Psittaciformes (Anodorhynchus)" ; Times: 1
+	Query: "Pandale class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bairdi county:&#34;Val vERDE&#34;" ; Times: 1
+	Query: "institutioncode:pmns" ; Times: 1
+	Query: "class:Reptilia county:&#34;hays&#34; stateprovince:&#34;Texas&#34; year &gt;= 1910 year &lt;= 2015" ; Times: 2
+	Query: "Ficimia streckeri Texas" ; Times: 2
+	Query: "institutioncode:PMNS" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 3
+	Query: "genus:megaceryle class:aves AND (not alcyon) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (severus)" ; Times: 3
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "Juno class:Reptilia county:&#34;Val Verde&#34;" ; Times: 4
+	Query: "institutioncode:pmns aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 751 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "class:Reptilia county:&#34;hays&#34; stateprovince:&#34;Texas&#34; year &gt;= 1910 year &lt;= 2015" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "class:Reptilia locality:white sands stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
