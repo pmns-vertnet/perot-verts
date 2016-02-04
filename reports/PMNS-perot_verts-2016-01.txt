@@ -1,0 +1,58 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "2185 stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:triaspis genus:elaphe" ; Times: 1
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 2
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophora NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "2185 class:Reptilia county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 507 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+
+
+End of report.
