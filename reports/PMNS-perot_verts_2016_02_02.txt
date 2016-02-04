@@ -1,0 +1,76 @@
+Report for Institution Code PMNS, Resource BIRDS
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "2185 stateprovince:"Texas"" ; Times: 1
+	Query: "type:specimen specificepithet:triaspis genus:elaphe" ; Times: 1
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophora NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla) year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "2185 class:Reptilia county:"Culberson" stateprovince:"Texas"" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 2
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 507 download events in this period)
+Total number of records downloaded: 29 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 2
+Total number of records downloaded: 29
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 15
+Total number of records retrieved from searches: 41
+Number of download events that retrieved data from the resource: 2
+Total number of records downloaded: 29
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
