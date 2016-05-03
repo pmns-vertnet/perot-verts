@@ -1,0 +1,73 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lodingi (lodingi)" ; Times: 1
+	Query: "lodingi" ; Times: 1
+	Query: "pituophis lodingi" ; Times: 3
+	Query: "pyromelana" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 1
+	Query: "order:squamata county:&#34;burleson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;St. Louis&#34; stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 6
+	Query: "Phyllorhynchus browni Sinaloa" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-106.387516))&lt;15000" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1312 download events in this period)
+Total number of records downloaded: 88
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
