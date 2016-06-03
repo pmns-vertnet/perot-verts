@@ -1,0 +1,49 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-26 ; Times: 6
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "leptodeira (USA)" ; Times: 1
+	Query: "Masticophis flagellum Nayarit" ; Times: 3
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 327 download events in this period)
+Total number of records downloaded: 250
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
