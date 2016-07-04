@@ -1,0 +1,66 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana class:Reptilia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:bairdi class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1052 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
