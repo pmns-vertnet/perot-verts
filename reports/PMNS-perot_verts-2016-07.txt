@@ -1,0 +1,93 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 205
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-25 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-27 ; Times: 2
+	Date: 2016-07-07 ; Times: 5
+	Date: 2016-07-05 ; Times: 3
+	Date: 2016-07-18 ; Times: 5
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Heterodon gloydi stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Tantilla atriceps stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "Agapornis roseicollis 1" ; Times: 1
+	Query: "specificepithet:bairdi genus:elaphe" ; Times: 1
+	Query: "Lampropeltis splendida country:&#34;United States&#34;" ; Times: 1
+	Query: "tantilla atriceps mexico" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "zonata CA" ; Times: 2
+	Query: "elaphe longissima" ; Times: 1
+	Query: "Thamnophis sirtalis annectens stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gyalopion quadrangulare" ; Times: 3
+	Query: "1ebf1564-949e-49ca-9f8b-e11ef68238db" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "virginia valeriae stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Storeria occipitomaculata stateprovince:&#34;texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1219 download events in this period)
+Total number of records downloaded: 1148
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 6
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-12 ; Times: 2
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-07 ; Times: 5
+	Date: 2016-07-22 ; Times: 3
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "elaphe guttata" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "reptilia Mexico Nayarit" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Aphelocoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;El paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
