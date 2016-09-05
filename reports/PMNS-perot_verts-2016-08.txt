@@ -1,0 +1,74 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 27
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "trimorphodon texas" ; Times: 1
+	Query: "pituophis melanoleucus mugitus" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pseudoficimia" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "Falco peregrinus Texas" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Storeria occipitomaculata stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 924 download events in this period)
+Total number of records downloaded: 271
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Arab Emirates ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+
+
+End of report.
