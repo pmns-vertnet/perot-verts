@@ -1,0 +1,68 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:imberbe genus:Camptostoma" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gbifdatasetid:1ebf1564-949e-49ca-9f8b-e11ef68238db" ; Times: 1
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Heterodon nasicus gloydi" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Costa Rica&#34; institutioncode:PMNS" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Costa Rica&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 140
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-26 ; Times: 5
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "class:Reptilia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+
+
+End of report.
