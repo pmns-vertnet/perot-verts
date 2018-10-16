@@ -1,0 +1,71 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-24 ; Times: 3
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-06 ; Times: 5
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:hypsiglena class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tantilla atriceps stateprovince:&#34;Texas&#34; year &gt;= 1972 year &lt;= 1980" ; Times: 1
+	Query: "class:reptilia locality:ferguson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "Pituophis melanoleucus mugitus" ; Times: 2
+	Query: "Tantilla atriceps stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 1971" ; Times: 1
+	Query: "Florida pituophis" ; Times: 2
+	Query: "Pituophis stateprovince:&#34;Florida&#34;" ; Times: 5
+	Query: "Tantilla atriceps stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Drymobius class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:aves county:&#34;Jim hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tantilla atriceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nerodia paucimaculata" ; Times: 2
+	Query: "Nerodia harteri Palo Pinto" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 674 download events in this period)
+Total number of records downloaded: 51
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+
+
+End of report.
