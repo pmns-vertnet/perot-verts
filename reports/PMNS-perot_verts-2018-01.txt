@@ -1,0 +1,96 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 151
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-20 ; Times: 4
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-16 ; Times: 16
+	Date: 2018-01-15 ; Times: 7
+	Date: 2018-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "class:Reptilia county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 2
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:heterodon platyrhinos stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Camptostoma imberbe" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "class:Reptilia county:&#34;Limestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Podilymbus gigas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1398 download events in this period)
+Total number of records downloaded: 144
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Laterallus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+
+
+End of report.
