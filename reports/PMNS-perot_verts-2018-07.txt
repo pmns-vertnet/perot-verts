@@ -1,0 +1,88 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 70
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-20 ; Times: 5
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-24 ; Times: 6
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Heterodon Leon county" ; Times: 1
+	Query: "Liberty county regina" ; Times: 2
+	Query: "Leon county heterodon" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "heterodon simus Florida" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Florida heterodon simus" ; Times: 2
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "gyalopion quadrangulare" ; Times: 2
+	Query: "specificepithet:pyromelana genus:lampropeltis county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Tennessee&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 977 download events in this period)
+Total number of records downloaded: 354
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 9
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
