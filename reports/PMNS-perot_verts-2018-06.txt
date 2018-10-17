@@ -1,0 +1,71 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lampropeltis county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Gloydi heterodon" ; Times: 1
+	Query: "class:Reptilia county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1169 download events in this period)
+Total number of records downloaded: 115
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "class:Reptilia county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "class:Reptilia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "class:Reptilia county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Colubridae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+
+
+End of report.
