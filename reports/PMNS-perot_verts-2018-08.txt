@@ -1,0 +1,99 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 153
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-22 ; Times: 7
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-04 ; Times: 3
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:PMNS" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:quadrangulare genus:Gyalopion" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus year &gt;= 1904" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Campephilus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Quadrangulare" ; Times: 2
+	Query: "genus:Campephilus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "gbifdatasetid:1ebf1564-949e-49ca-9f8b-e11ef68238db" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 2
+	Query: "specificepithet:atriceps genus:tantilla country:&#34;United States&#34;" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "Pituophis Florida" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1416 download events in this period)
+Total number of records downloaded: 2333
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Bulgaria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-15 ; Times: 9
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+
+
+End of report.
