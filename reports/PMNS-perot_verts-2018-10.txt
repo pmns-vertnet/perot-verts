@@ -1,0 +1,83 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Hypsiglena Guerrero" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "campephilus principalis" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:salvadora recordedby:murphy" ; Times: 4
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1300 download events in this period)
+Total number of records downloaded: 270
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "laterallus jamaicensis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+
+
+End of report.
