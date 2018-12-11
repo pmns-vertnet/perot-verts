@@ -1,0 +1,77 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-30 ; Times: 3
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:palliatus genus:Haematopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 3
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 4
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "arizona elegans occidentalis" ; Times: 1
+	Query: "specificepithet:proximus genus:Thamnophis stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1954" ; Times: 1
+	Query: "masticophis schotti" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:coturnicops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; Pituophis melanoleucus lodingi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1719 download events in this period)
+Total number of records downloaded: 336
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-12 ; Times: 3
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-30 ; Times: 4
+	Date: 2018-11-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:wilsonia genus:charadrius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "specificepithet:carolinensis genus:poecile year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:coturnicops stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:palliatus genus:Haematopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+
+
+End of report.
