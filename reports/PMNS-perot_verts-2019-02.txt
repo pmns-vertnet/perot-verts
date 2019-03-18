@@ -1,0 +1,66 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 125
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla atriceps" ; Times: 4
+	Query: "Heterodon gloydi" ; Times: 2
+	Query: "gbifdatasetid:1ebf1564-949e-49ca-9f8b-e11ef68238db" ; Times: 1
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "class:aves county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ARIZONA locality:Bahia de los Angeles" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Heterodon simus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1227 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "class:aves county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 1
+
+
+End of report.
