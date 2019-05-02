@@ -1,0 +1,67 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 61
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 11
+	Date: 2019-04-14 ; Times: 9
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Florida&#34; Pituophis" ; Times: 9
+	Query: "Reptilia Texas willacy" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jones&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 9
+	Query: "birds vntype:specimen county:&#34;lampasas&#34;" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:reptilia county:&#34;jones&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Podilymbus gigas" ; Times: 1
+	Query: "Melanerpes aurifrons year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Sumter&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1263 download events in this period)
+Total number of records downloaded: 125
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Iowa" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+
+
+End of report.
