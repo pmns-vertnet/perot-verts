@@ -1,0 +1,87 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-15 ; Times: 24
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;santa cruz&#34;" ; Times: 2
+	Query: "Tantilla atriceps" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "Hypsiglena jani" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "heterodon gloydi" ; Times: 1
+	Query: "Nerodia paucimaculata" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 1
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "Leptodeira punctata" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;liberty&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:laterallus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Texas" ; Times: 4
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1281 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Phainopepla" ; Times: 1
+
+
+End of report.
