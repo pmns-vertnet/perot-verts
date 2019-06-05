@@ -1,0 +1,89 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 6
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(29.258871251165782,-103.29821648713425))&lt;8242" ; Times: 1
+	Query: "Pyromelana Arizona" ; Times: 3
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "pyromelana" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Perot" ; Times: 1
+	Query: "specificepithet:valeriae genus:virginia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;texas&#34; institutioncode:PMNS" ; Times: 2
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;texas&#34; institutioncode:PMNS" ; Times: 1
+	Query: "Storeria dekayi county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax year &gt;= 1941 year &lt;= 1945 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; (Hibbitts) institutioncode:PMNS" ; Times: 1
+	Query: "genus:farancia stateprovince:&#34;texas&#34; institutioncode:PMNS" ; Times: 1
+	Query: "carroll thamnophis" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 247
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 3
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "IF 396" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:yncas" ; Times: 1
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+
+
+End of report.
