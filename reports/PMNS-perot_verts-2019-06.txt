@@ -1,0 +1,90 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-18 ; Times: 4
+	Date: 2019-06-27 ; Times: 5
+	Date: 2019-06-29 ; Times: 2
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 30
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-12 ; Times: 3
+	Date: 2019-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 2
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "reptilia yepomera" ; Times: 5
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 1
+	Query: "Lampropeltis Pyromelana" ; Times: 1
+	Query: "genus:Elaphe specificepithet:triaspis" ; Times: 1
+	Query: "genus:Drymobius specificepithet:margaritiferus" ; Times: 1
+	Query: "genus:Leptophis specificepithet:mexicanus" ; Times: 1
+	Query: "genus:Calcarius specificepithet:mccownii" ; Times: 1
+	Query: "Reptilia chatfield" ; Times: 2
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:quadrangulare" ; Times: 1
+	Query: "genus:Pseudoficimia specificepithet:frontalis" ; Times: 1
+	Query: "hiltoni" ; Times: 3
+	Query: "genus:Leptodeira specificepithet:punctata" ; Times: 1
+	Query: "order:Squamata county:&#34;Red River&#34; stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Salvadora specificepithet:deserticola" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 1
+	Query: "Aratinga auricapillus" ; Times: 4
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 2
+	Query: "genus:Cygnus specificepithet:columbianus" ; Times: 1
+	Query: "genus:Parabuteo specificepithet:unicinctus" ; Times: 1
+	Query: "Podilymbus gigas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1182 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "nerodia paucimaculata" ; Times: 1
+	Query: "Farancia" ; Times: 1
+
+
+End of report.
