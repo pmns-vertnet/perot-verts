@@ -1,0 +1,68 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-08 ; Times: 10
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "specificepithet:flagellum stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "Aratinga auricapillus" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "vireo marshall" ; Times: 1
+	Query: "rhadinaea taeniata" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 985 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
