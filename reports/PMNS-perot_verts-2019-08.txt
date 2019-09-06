@@ -1,0 +1,121 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 625
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 94
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Finland ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-07 ; Times: 5
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-19 ; Times: 8
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-16 ; Times: 4
+	Date: 2019-08-15 ; Times: 18
+	Date: 2019-08-14 ; Times: 10
+	Date: 2019-08-13 ; Times: 6
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-22 ; Times: 6
+	Date: 2019-08-30 ; Times: 26
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ramphastos vitellinus" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 4
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 8
+	Query: "Calidris canutus" ; Times: 2
+	Query: "vntype:specimen genus:arizona family:colubridae country:&#34;mexico&#34; year &gt;= 1965 year &lt;= 1980" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 3
+	Query: "Porphyrio martinica" ; Times: 4
+	Query: "Storeria occipitomaculata stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "DMNH birds" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Drymarchon corais" ; Times: 6
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 22
+	Query: "Ara severus" ; Times: 1
+	Query: "Podilymbus gigas vntype:specimen" ; Times: 1
+	Query: "gloydi specificepithet:nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "vntype:specimen specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Vireo bellii" ; Times: 3
+	Query: "Aratinga auricapillus" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 26
+	Query: "genus:thamnophis stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "genus:pituophis county:&#34;madera&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "Podilymbus gigas" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1034 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 6
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-04 ; Times: 4
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "genus:thamnophis stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Texas &#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+
+
+End of report.
