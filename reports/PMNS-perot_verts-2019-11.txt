@@ -1,0 +1,116 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 173
+Number of records retrieved in searches: 571
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 165
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-08 ; Times: 14
+	Date: 2019-11-09 ; Times: 12
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 48
+	Date: 2019-11-16 ; Times: 21
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 8
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-14 ; Times: 11
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-12 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;Mexico&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "Lampropeltis pyromelana" ; Times: 19
+	Query: "Coccyzus americanus 2006" ; Times: 4
+	Query: "Aphelocoma coerulescens 2013" ; Times: 12
+	Query: "Aphelocoma coerulescens 2016" ; Times: 8
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "Aphelocoma coerulescens 1974" ; Times: 7
+	Query: "Aphelocoma coerulescens 1973" ; Times: 6
+	Query: "Aphelocoma coerulescens 1972" ; Times: 6
+	Query: "nerodia harteri" ; Times: 4
+	Query: "lampropeltis pyromelana" ; Times: 39
+	Query: "specificepithet:couchi genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Mycteria americana 2013" ; Times: 4
+	Query: "heterodon nasicus gloydi" ; Times: 1
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "genus:elaphe specificepithet:guttata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 6
+	Query: "Heterodon nasicus gloydi" ; Times: 2
+	Query: "Quadrangulare" ; Times: 2
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "specificepithet:couchi genus:Thamnophis" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "aves howard 1900" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Tennessee&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1367 download events in this period)
+Total number of records downloaded: 213
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 5
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;Mexico&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+
+
+End of report.
