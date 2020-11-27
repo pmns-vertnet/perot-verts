@@ -1,0 +1,89 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "quadrangulare" ; Times: 2
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Texas peregrina" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; Thamnophis marcianus" ; Times: 2
+	Query: "Texas Anser albifrons" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 2
+	Query: "specificepithet:striatus genus:accipiter stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Texas Arenaria interpres" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Caprimulgus vociferus Texas" ; Times: 1
+	Query: "Haliaeetus leucocephalus Texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1106 download events in this period)
+Total number of records downloaded: 6943
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Haliaeetus leucocephalus Texas" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Nerodia paucimaculata" ; Times: 1
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
