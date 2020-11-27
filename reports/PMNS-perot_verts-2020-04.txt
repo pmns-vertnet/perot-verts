@@ -1,0 +1,149 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 519
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 53
+	Country: United States ; Times: 31
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-07 ; Times: 24
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 10
+	Date: 2020-04-21 ; Times: 8
+	Date: 2020-04-29 ; Times: 10
+	Date: 2020-04-08 ; Times: 6
+	Date: 2020-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Heterodon nasicus gloydi stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ficimia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Virginia valeriae mississippi" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 3
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Perot Museum" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "virginia valeriae mississippi" ; Times: 1
+	Query: "FICIMIA STRECKERI" ; Times: 3
+	Query: "genus:Diadophis stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "genus:Ficimia country:&#34;United States&#34;" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Botaurus lentiginosus Texas" ; Times: 1
+	Query: "Plegadis falcinellus Texas" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Virginia Valeriae Madison County Mississippi" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Anas penelope" ; Times: 11
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Ixobrychus exilis Texas" ; Times: 2
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1171 download events in this period)
+Total number of records downloaded: 794
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 5
+	Date: 2020-04-29 ; Times: 26
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Botaurus lentiginosus Texas" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "Plegadis falcinellus Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+
+End of report.
