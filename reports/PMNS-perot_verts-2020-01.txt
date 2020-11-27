@@ -1,0 +1,76 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 92
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 7
+	Date: 2020-01-18 ; Times: 71
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:abacura genus:farancia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "ficimia texas" ; Times: 2
+	Query: "genus:rhinocheilus county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "Lampropeltis pyromelana" ; Times: 77
+	Query: "gbifdatasetid:1ebf1564-949e-49ca-9f8b-e11ef68238db" ; Times: 1
+	Query: "drymobius texas" ; Times: 3
+	Query: "gbifdatasetid:1ebf1564-949e-49ca-9f8b-e11ef68238db tropidoclonion" ; Times: 1
+	Query: "drymobius sinaloa" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion county:&#34;Duval&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1584 download events in this period)
+Total number of records downloaded: 310
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "ficimia texas" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+
+
+End of report.
