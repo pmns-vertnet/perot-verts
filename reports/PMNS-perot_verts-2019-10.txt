@@ -1,0 +1,111 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 193
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Brazil ; Times: 8
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-22 ; Times: 23
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-24 ; Times: 6
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-14 ; Times: 4
+	Date: 2019-10-15 ; Times: 10
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gyalopion sinaloa" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "leptodeira punctata sinaloa" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 1
+	Query: "Aphelocoma coerulescens 2013" ; Times: 2
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "rhinocheilus sinaloa" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 2
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "Gyalopion quadrangulare" ; Times: 2
+	Query: "hypsiglena torquata sinaloa" ; Times: 1
+	Query: "Aphelocoma coerulescens 1974" ; Times: 1
+	Query: "Aphelocoma coerulescens 1973" ; Times: 1
+	Query: "Aphelocoma coerulescens 1972" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 2
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Mycteria americana 2013" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "sympholis sinaloa" ; Times: 2
+	Query: "nerodia harteri" ; Times: 2
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 2
+	Query: "Storeria dekayi Missouri" ; Times: 1
+	Query: "pseudoficimia frontalis sinaloa" ; Times: 1
+	Query: "phyllorhynchus browni sinaloa" ; Times: 1
+	Query: "drymobius sinaloa" ; Times: 3
+	Query: "specificepithet:coronata genus:tantilla stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Coccyzus americanus 1983" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 1
+	Query: "hypsiglena sinaloa" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1308 download events in this period)
+Total number of records downloaded: 139
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "colinus virginianus" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+
+
+End of report.
