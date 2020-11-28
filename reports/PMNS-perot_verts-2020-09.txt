@@ -1,0 +1,69 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Hypsiglena ochrorhynchus" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;mississippi&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 976 download events in this period)
+Total number of records downloaded: 615
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Netherlands ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-13 ; Times: 6
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+
+
+End of report.
