@@ -1,0 +1,64 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 64
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-31 ; Times: 8
+	Date: 2020-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "campephilus principalis" ; Times: 8
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Storeria Tennessee" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Buteo jamaicensis Perot" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 940 download events in this period)
+Total number of records downloaded: 1055
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+
+End of report.
