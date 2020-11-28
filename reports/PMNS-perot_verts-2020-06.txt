@@ -1,0 +1,55 @@
+Report for Institution Code PMNS, Resource perot_verts
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 37
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-11 ; Times: 3
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "trimorphodon texas" ; Times: 2
+	Query: "Anas penelope" ; Times: 6
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 474 download events in this period)
+Total number of records downloaded: 169
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+
+
+End of report.
